@@ -1,6 +1,6 @@
 # PROJECT_memoriez
 
-![MemorieZ]([url=https://ibb.co/zNkzMNw][img]https://i.ibb.co/mSx3jS7/Memoriez-ss.png[/img][/url])
+![MemorieZ](https://pasteboard.co/JXh6rhl.png)
 
 ## Introduction
 
