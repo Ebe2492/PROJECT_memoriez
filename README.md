@@ -1,6 +1,6 @@
 # PROJECT_memoriez
 
-![MemorieZ](https://pasteboard.co/JXh6rhl.png)
+![Memories](https://pasteboard.co/JXh6rhl.png)
 
 ## Introduction
 
